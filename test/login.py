@@ -1,3 +1,3 @@
 num = 1
-nu1 = 3456gvfccv
-nvsu  nv
+nu1 = 345
+num 2= 2345678
